@@ -39,4 +39,4 @@ I'm a Computer Science student and aspiring Software Engineer passionate about b
 
 ## 📈 GitHub Stats *(optional)*
 
-![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox)
+![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joeyyy15&show_icons=true&theme=gruvbox)
